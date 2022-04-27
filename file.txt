@@ -3,4 +3,17 @@
 #Menyapa
 echo "Hello World"
 
+# Prolog
+echo "Kali ini admin mau berbagi tips membersihkan lantai kamar mandi dengan ramuan rahasia"
 
+
+# Menambahkan instruction text
+echo "
+1. Masukkan citrun ke dalam wadah lalu beri air
+2. Setelah citrun tercampur masukkan sunlight secukupnya
+3. Aduk hingga berbusa
+4. Gunakan brush untuk mengoles ke lantau kamar mandi
+5. Diamkan kurang lebih 15 menit agar cairan bisa mengangkat kotoran di lantai
+6. Setelah itu sikat dan bersihkan menggunakan air"
+
+echo "Selamat Mencoba"
