@@ -17,5 +17,5 @@ echo "
 6. Setelah itu sikat dan bersihkan menggunakan air
 7. Perbandingan 1:2 untuk citrun dan sunlight"
 
-
 echo "Selamat Mencoba"
+
