@@ -14,6 +14,8 @@ echo "
 3. Aduk hingga berbusa
 4. Gunakan brush untuk mengoles ke lantau kamar mandi
 5. Diamkan kurang lebih 15 menit agar cairan bisa mengangkat kotoran di lantai
-6. Setelah itu sikat dan bersihkan menggunakan air"
+6. Setelah itu sikat dan bersihkan menggunakan air
+7. Gunakan air sabun agar lebih bersih"
 
 echo "Selamat Mencoba"
+
