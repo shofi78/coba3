@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+#Menyapa
+echo "Hello World"
+
+
